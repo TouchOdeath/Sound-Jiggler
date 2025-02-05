@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=BluetoothConnect
+Comment=
+Exec="/home/youruser/soundJiggler.sh"
+Icon=/home/youruser/soundJigglerIcon.png
+Terminal=false
+StartupNotify=false
