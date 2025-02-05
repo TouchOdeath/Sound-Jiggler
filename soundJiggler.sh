@@ -1,6 +1,6 @@
 #!/bin/bash
 
-JiggleEvery=$(yad --scale --text="Jiggle ever X seconds" --min-value=1 --max-value=60 --value=30 --title="" --center)
+JiggleEvery=$(yad --scale --text="Jiggle every X seconds" --min-value=1 --max-value=60 --value=30 --title="" --center)
 
 if [ $? -ne 0 ]; then
   echo "Exiting..."
