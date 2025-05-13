@@ -1,6 +1,6 @@
 # About:
 
-This tackles the problem of your bluetooth speaker turning off due to inactivity.
+This prevents your bluetooth speaker/headphones turning off due to inactivity.
 
 # Usage
 
